@@ -61,6 +61,7 @@ def main():
         print("Expected validation error:")
         print(e)
 
+
 if __name__ == "__main__":
     print("Space Station Data Validation")
     main()
